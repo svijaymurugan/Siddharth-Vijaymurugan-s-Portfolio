@@ -1,0 +1,31 @@
+ 
+ 
+Feb 26
+50F°
+ 
+Mirror 1:Horizontal Angle: 302.0, Vertical Angle: 69.0
+Mirror 2:Horizontal Angle: 308.0, Vertical Angle: 57.0
+Mirror 3:Horizontal Angle: 138.0, Vertical Angle: 54.0
+Mirror 4:Horizontal Angle: 246.0, Vertical Angle: 19.0
+Mirror 5:Horizontal Angle: 175.0, Vertical Angle: 17.0
+Mirror 6:Horizontal Angle: 185.0, Vertical Angle: 60.0
+Mirror 7:Horizontal Angle: 191.0, Vertical Angle: 66.0
+Mirror 8:Horizontal Angle: 295.0, Vertical Angle: 68.0
+Mirror 9:Horizontal Angle: 297.0, Vertical Angle: 55.0
+Mirror 10:Horizontal Angle: 304.0, Vertical Angle: 49.0
+Mirror 11:Horizontal Angle: 191.0, Vertical Angle: 22.0
+Mirror 12:Horizontal Angle: 197.0, Vertical Angle: 58.0
+Mirror 13:Horizontal Angle: 196.0, Vertical Angle: 65.0
+Mirror 14:Horizontal Angle: 286.0, Vertical Angle: 68.0
+Mirror 15:Horizontal Angle: 285.0, Vertical Angle: 55.0
+Mirror 16:Horizontal Angle: 280.0, Vertical Angle: 49.0
+Mirror 17:Horizontal Angle: 215.0, Vertical Angle: 22.0
+Mirror 18:Horizontal Angle: 210.0, Vertical Angle: 58.0
+Mirror 19:Horizontal Angle: 204.0, Vertical Angle: 65.0
+Mirror 20:Horizontal Angle: 280.0, Vertical Angle: 69.0
+Mirror 21:Horizontal Angle: 276.0, Vertical Angle: 57.0
+Mirror 22:Horizontal Angle: 264.0, Vertical Angle: 54.0
+Mirror 23:Horizontal Angle: 156.0, Vertical Angle: 51.0
+Mirror 24:Horizontal Angle: 228.0, Vertical Angle: 17.0
+Mirror 25:Horizontal Angle: 218.0, Vertical Angle: 60.0
+Mirror 26:Horizontal Angle: 213.0, Vertical Angle: 66.0
